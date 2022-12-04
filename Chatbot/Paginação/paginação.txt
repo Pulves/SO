@@ -1,0 +1,10 @@
+Tamanho da pagina:
+4096
+Quantidade de partes que a memoria virtual foi dividida:
+39243
+Quantidade de partes a memoria fisica foi dividida:
+499132
+Tamanho da memoria RAM em bytes:
+2044444672
+Tamanho da memoria virtual:
+182190080

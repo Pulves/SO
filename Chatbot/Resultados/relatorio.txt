@@ -1,0 +1,2 @@
+Foi criado um processo filho com o mesmo nome do pai que é python3.
+O prcesso filho foi "adotado" por outro processo sendo esse o systemd. 
